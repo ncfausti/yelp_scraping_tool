@@ -1,0 +1,3 @@
+Right now puller is adding up to the next 20-threshold, 
+so 60, 61, 62 etc. goes up to 80
+Not happening for those where review_count < 20

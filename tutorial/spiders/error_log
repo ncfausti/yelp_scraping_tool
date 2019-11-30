@@ -1,0 +1,458 @@
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'Av. Cerro Gordo 311 Col. Lomas del Campestre, Le\xf3n, Le\xf3n de Los', 48, 49, 'ordinal not in range(128)')
+An exception of type InternalError occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'cirugia-ambulatoria-de-torre\xf3n-torre\xf3n\tCirugia Ambulatoria de Torre\xf3n\thttp://www.yelp.com/biz/cirugia-ambulatoria-de-torre%C3%B3n-torre%C3%B3n?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JDVlrf6zzfV3c5p8C4MDOQ\t+528717211773\t0\t0.0\tCallejon del Silencio 306 Campestre La Rosita\tTorre\xf3n\tCOA\t27250\tMX\tNone\n', 28, 29, 'ordinal not in range(128)')
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'Jos\xe9 Mar\xeda Rico 323', 3, 4, 'ordinal not in range(128)')
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'Jard\xednes de San Mateo 60', 4, 5, 'ordinal not in range(128)')
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'hospital-psiquiatrico-dr-samuel-ramirez-moreno-m\xe9xico-d-f\tHospital Psiquiatrico Dr. Samuel Ramirez Moreno\thttp://www.yelp.com/biz/hospital-psiquiatrico-dr-samuel-ramirez-moreno-m%C3%A9xico-d-f?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JDVlrf6zzfV3c5p8C4MDOQ\t+525558601498\t0\t0.0\tAutopista Mex-Puebla Km 5. 5\tM\xe9xico\tDIF\tNone\tMX\tNone\n', 48, 49, 'ordinal not in range(128)')
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'vazquez-mu\xf1oz-alejandro-no-title-3\tVazquez Mu\xf1oz Alejandro\thttp://www.yelp.com/biz/vazquez-mu%C3%B1oz-alejandro-no-title-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JDVlrf6zzfV3c5p8C4MDOQ\tNone\t0\t0.0\tVia Lopez Portillo 371\tM\xe9xico\tMEX\t55710\tMX\tNone\n', 10, 11, 'ordinal not in range(128)')
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'Col. H\xe9roes de Padierna', 6, 7, 'ordinal not in range(128)')
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'Av. San Bernab\xe9  845', 14, 15, 'ordinal not in range(128)')
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'de-la-rosa-mendieta-armando-norman-no-title\tde la Rosa Mendieta Armando Norman\thttp://www.yelp.com/biz/de-la-rosa-mendieta-armando-norman-no-title?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JDVlrf6zzfV3c5p8C4MDOQ\t+529841084305\t0\t0.0\t28 Julio Mza. 34\tM\xe9xico\tROO\t77725\tMX\tNone\n', 266, 267, 'ordinal not in range(128)')
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'hector-armando-cuevas-m\xe9ndez-xalapa\tHector Armando Cuevas M\xe9ndez\thttp://www.yelp.com/biz/hector-armando-cuevas-m%C3%A9ndez-xalapa?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JDVlrf6zzfV3c5p8C4MDOQ\tNone\t0\t0.0\tAv. Araucarias 7 H\tXalapa\tVER\t91190\tMX\tNone\n', 23, 24, 'ordinal not in range(128)')
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'Paseo de la Asunci\xf3n 101', 18, 19, 'ordinal not in range(128)')
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'grajeda-cabrera-ma-olivia-jes\xfas-mar\xeda\tGrajeda Cabrera Ma. Olivia\thttp://www.yelp.com/biz/grajeda-cabrera-ma-olivia-jes%C3%BAs-mar%C3%ADa?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JDVlrf6zzfV3c5p8C4MDOQ\t+521020816465\t0\t0.0\tMorelos 528\tJes\xfas Mar\xeda\tAGU\t20900\tMX\tNone\n', 29, 30, 'ordinal not in range(128)')
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'Dr. Faustino Miranda y Avenida \xc1lamos', 31, 32, 'ordinal not in range(128)')
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'Col. H\xe9roes de Padierna', 6, 7, 'ordinal not in range(128)')
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'arias-inclan-laura-del-consuelo-coyoac\xe1n\tArias Inclan Laura del Consuelo\thttp://www.yelp.com/biz/arias-inclan-laura-del-consuelo-coyoac%C3%A1n?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JDVlrf6zzfV3c5p8C4MDOQ\tNone\t0\t0.0\tDivision del Rte, 3651\tM\xe9xico\tDIF\t04620\tMX\tNone\n', 38, 39, 'ordinal not in range(128)')
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'Rinc\xf3n', 4, 5, 'ordinal not in range(128)')
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'hospital-de-la-concepcion-san-germ\xe1n-2\tHospital de la Concepcion\thttp://www.yelp.com/biz/hospital-de-la-concepcion-san-germ%C3%A1n-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JDVlrf6zzfV3c5p8C4MDOQ\t7878921860\t0\t0.0\tCarretera 2 Km 173.4\tSan Germ\xe1n\tPR\t00683\tPR\tNone\n', 34, 35, 'ordinal not in range(128)')
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'hospital-universitario-dr-ruiz-arnau-bayam\xf3n\tHospital Universitario Dr Ruiz Arnau\thttp://www.yelp.com/biz/hospital-universitario-dr-ruiz-arnau-bayam%C3%B3n?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JDVlrf6zzfV3c5p8C4MDOQ\t7877875151\t1\t5.0\tLaurel Avenue Santa Juanita Suite 100\tBayam\xf3n\tPR\t00956\tPR\tNone\n', 42, 43, 'ordinal not in range(128)')
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'hima-san-pablo-bayamon-bayam\xf3n\tHima San Pablo Bayamon\thttp://www.yelp.com/biz/hima-san-pablo-bayamon-bayam%C3%B3n?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JDVlrf6zzfV3c5p8C4MDOQ\t7876204747\t2\t5.0\t70 Cll Santa Cruz\tBayam\xf3n\tPR\t00961\tPR\tNone\n', 28, 29, 'ordinal not in range(128)')
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnicodeEncodeError occured. Arguments:
+('ascii', u'hospital-san-crist\xf3bal-ponce-2\tHospital San Crist\xf3bal\thttp://www.yelp.com/biz/hospital-san-crist%C3%B3bal-ponce-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JDVlrf6zzfV3c5p8C4MDOQ\t7878482100\t1\t1.0\tCarretera 506 Km 10\tPonce\tPR\t00730\tPR\tNone\n', 18, 19, 'ordinal not in range(128)')
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
+An exception of type UnavailableForLocation occured. Arguments:
+()
